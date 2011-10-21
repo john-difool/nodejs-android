@@ -1,0 +1,1 @@
+GYPFLAGS= -Dv8_can_use_vfp_instructions=true
